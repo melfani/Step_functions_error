@@ -1,5 +1,7 @@
+# Step functions catch error Demo 
+Deployment of a step functions including lambda tasks. if an error occurred, this one is catch and a specific lambda task is stated.
 
-# Welcome to your CDK Python project!
+## Welcome to your CDK Python project!
 
 This is a blank project for Python development with CDK.
 
